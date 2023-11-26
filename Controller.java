@@ -4,7 +4,7 @@
 * Copyright: 2023, Faragó Csaba
 * Group: Szoft II_1_E
 * Date: 2023-11-26
-* Github: https://github.com/janos/
+* Github: https://github.com/Szalami72/
 * Licenc: GNU GPL
 */
 public class Controller implements Controllable {
